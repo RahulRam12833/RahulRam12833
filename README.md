@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rahul Ram. An enthusiatic full stack developer, currently honing my skills and working on some side projects.
+### Hi there 👋, I am Rahul Ram. An enthusiastic full stack developer, currently honing my skills and working on some side projects.
 
 <!--
 **RahulRam12833/RahulRam12833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
