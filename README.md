@@ -1,4 +1,13 @@
-### Hi there 👋, I am Rahul Ram. An enthusiastic full stack developer, currently honing my skills and working on some side projects.
+Hi, I'm Rahul Ram, a React & .NET Developer | Passionate about building full-stack applications that are clean, scalable, and user-focused.
+
+🛠️ Tech Stack: React, Redux, .NET Core, Entity Framework, Firebase, Stripe, SQL, GitHub Actions, Docker
+
+🚀 Currently building: FinSight – a financial portfolio tracker (React + .NET)
+
+📌 Open to entry-level/junior roles in frontend, backend, or full-stack development.
+
+📂 Check out my pinned projects for e-commerce, finance, and CI/CD-ready apps.
+
 
 <!--
 **RahulRam12833/RahulRam12833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
