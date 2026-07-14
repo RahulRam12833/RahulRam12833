@@ -13,6 +13,7 @@ Currently focused on developing full-stack applications, improving my software e
 ### 💰 FinSight - Full-Stack Financial Portfolio Tracker
 
 A full-stack finance tracking application built with React and .NET.
+
 Live link: https://finsight-frontend.icydune-9ce779a9.australiaeast.azurecontainerapps.io/
 
 **Tech Stack:**
@@ -38,7 +39,8 @@ Live link: https://finsight-frontend.icydune-9ce779a9.australiaeast.azurecontain
 
 A modern full-stack e-commerce application built with **React**, **Tailwind**, **Firebase**, and **Stripe** to buy art. The project demonstrates responsive UI development, state management, authentication, cloud services, and secure online payments.
 
-Live link: artvaults.netlify.app
+Live link: https://artvaults.netlify.app/
+
 **Tech Stack:**
 - React
 - Vite
