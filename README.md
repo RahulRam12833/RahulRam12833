@@ -1,6 +1,6 @@
 # Hi, I'm Rahul 👋
 
-## 👨‍💻 Full-Stack Developer
+## 👨‍💻 Full-Stack Developer(**React, TypeScript, .NET, and cloud technologies**)
 
 I am a software developer passionate about building modern web applications using **React, TypeScript, .NET, and cloud technologies**.
 
@@ -13,6 +13,7 @@ Currently focused on developing full-stack applications, improving my software e
 ### 💰 FinSight - Full-Stack Financial Portfolio Tracker
 
 A full-stack finance tracking application built with React and .NET.
+Live link: https://finsight-frontend.icydune-9ce779a9.australiaeast.azurecontainerapps.io/
 
 **Tech Stack:**
 - React + TypeScript
@@ -33,10 +34,11 @@ A full-stack finance tracking application built with React and .NET.
 
 ---
 
-### 🛒 E-Commerce Store
+### 🛒 ArtVault
 
-A modern e-commerce application built with React and Firebase.
+A modern full-stack e-commerce application built with **React**, **Tailwind**, **Firebase**, and **Stripe** to buy art. The project demonstrates responsive UI development, state management, authentication, cloud services, and secure online payments.
 
+Live link: artvaults.netlify.app
 **Tech Stack:**
 - React
 - Vite
@@ -57,27 +59,20 @@ A modern e-commerce application built with React and Firebase.
 ## 🛠️ Technologies
 
 ### Frontend
+
 - React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+- Vite
+- React Router
 - Redux Toolkit
+- Tailwind CSS
+- Axios
 
-### Backend
-- C#
-- .NET 8
-- ASP.NET Core Web API
-- Entity Framework Core
-- SQL Server
+### Backend / Services
 
-### DevOps & Cloud
-- Docker
-- GitHub Actions
-- Azure
-- Firebase
-- CI/CD Pipelines
+- Firebase Authentication
+- Firebase Firestore
+- Firebase Storage
+- Stripe
 
 ---
 
