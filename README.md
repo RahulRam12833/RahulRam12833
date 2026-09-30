@@ -15,7 +15,7 @@ I enjoy working across the application lifecycle — from **frontend development
 A full-stack financial portfolio application built with **React and .NET 8**, designed to demonstrate modern full-stack development, API architecture, authentication, containerization, and cloud deployment.
 
 🔗 **Live Application:**
-https://finsight-frontend.icydune-9ce779a.australiaeast.azurecontainerapps.io/
+[https://finsight-frontend.icydune-9ce779a.australiaeast.azurecontainerapps.io/](https://finsight-frontend.icydune-9ce779a9.australiaeast.azurecontainerapps.io/)
 
 #### 🛠️ Tech Stack
 
